@@ -163,8 +163,8 @@ flowchart TD
 ## 🚀 Execution Instructions
 
 ### 1. Interactive Web Application & Analytics Dashboard
-- **Live Online:** **[https://girinathsr7423-gif.github.io/Event-management/](https://girinathsr7423-gif.github.io/Event-management/)**
-- **Local Server (Localhost):** Open **[http://localhost:8080/](http://localhost:8080/)**
+- **Live Online:** **[https://mukilan7624-boop.github.io/Final_System1/](https://mukilan7624-boop.github.io/Final_System1/)**
+- **Local Server (Localhost):** Open **[http://localhost:8000/](http://localhost:8000/)**
 - **Windows One-Click Launch:** Double-click `web/run_server.bat` to launch the local web server anytime.
 
 ### 2. Database Setup
