@@ -14,7 +14,7 @@
 
 <br/>
 
-### 🌐 [**🚀 Click Here for Live Web Application**](file:///D:/Telegram_Cloud/Github/Event-management/web/index.html)
+### 🌐 [**🚀 Click Here for Live Web Application**](https://mukilan7624-boop.github.io/Final_System1/)
 **Local Server URL:** [http://localhost:8080/](http://localhost:8000/)
 
 </div>
